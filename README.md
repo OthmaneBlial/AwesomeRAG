@@ -139,8 +139,6 @@ Core building blocks for efficient retrieval:
 ## 🧪 Demos & Starter Projects
 
 * **[OpenAI ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)** – Template to add retrieval to ChatGPT.
-* **[Chat-with-PDF](https://github.com/whitphx/chatgpt-pdf)** – Simple implementation of PDF-based RAG.
-* **[VisRAG](https://github.com/jykim74/visrag)** – Early demo of **Vision-RAG**, retrieving images + text.
 
 ---
 
