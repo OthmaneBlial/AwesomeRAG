@@ -70,7 +70,7 @@ Run an LLM + RAG pipeline fully **offline and private**. Query your documents wi
 
 ---
 
-### [Onyx (formerly Danswer)](https://github.com/onyx-dot-ai/onyx)
+### [Onyx (formerly Danswer)](https://github.com/onyx-dot-app/onyx)
 
 Enterprise-ready **knowledge assistant**. Connects to **Google Drive, Slack, GitHub, Confluence**, and more, and answers questions using RAG with access controls.
 
@@ -90,7 +90,7 @@ An out-of-the-box **chatbot over your data** by Weaviate. Works with local or AP
 
 ---
 
-### [Chat-with-your-Docs](https://github.com/mayooear/ChatGPT-pdf)
+### [Chat-with-your-Docs](https://github.com/mayooear/ai-pdf-chatbot-langchain)
 
 Upload PDFs and **chat with them**. A popular starter RAG app showing document ingestion → embeddings → chat.
 
